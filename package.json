@@ -11,9 +11,12 @@
   "author": "Chris Sevilleja <scotch.io>",
   "license": "MIT",
   "dependencies": {
+    "body-parser": "~1.0.1",
+    "cluster": "^0.7.7",
     "express": "~4.0.0",
+    "http": "0.0.0",
+    "mongoose": "~4.6.8",
     "morgan": "~1.0.0",
-    "mongoose" : "~4.6.8",
-    "body-parser": "~1.0.1"
+    "os": "^0.1.1"
   }
 }
